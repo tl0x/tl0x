@@ -5,6 +5,6 @@ Hello!
 
 ## About Me
 
-My name is tl0x, or Aaron. I'm currently working on [FerdieClient](https://github.com/tl0x/FerdieClient), and some other plugin or web development stuff if I get bored. :innocent:
+My name is tl0x, or Aaron. I am currently learning C++. :smiling_face_with_tear: I mostly do things with Minecraft.
 
-Feel free to message me if you have any collaboration oppourtunities. :relieved: :+1:
+Feel free to message me if you have any collaboration oppourtunities. :+1:
