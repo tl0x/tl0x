@@ -1,6 +1,5 @@
-<h3>Hi, I'm Logan</h3>
+<h3>Hi, I'm zijing</h3>
 
-<p>Contact me on discord if you ever wanna talk. User: corejourney</p>
 <p> <img src="https://komarev.com/ghpvc/?username=tl0x&label=Views&color=brightgreen&style=for-the-badge" alt="tl0x" /></p>
 
 
